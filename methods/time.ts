@@ -1,7 +1,7 @@
 import findLength from "./length";
 
 const readTime = (phrase: string) => {
-  const time = 0.58;
+  const time = 0.5;
   const avgChar = 5.1;
   const lengthFinder = findLength(phrase);
 

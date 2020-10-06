@@ -1,16 +1,13 @@
 {
   "name": "durat",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Open the possibilities of what you can do with text.",
+  "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/filippo-fonseca/durat.git"
-  },
-  "author": "Filippo Fonseca <filifonsecacagnazzo@gmail.com> (https://www.zyndicate.app/)",
+  "repository": "git+https://github.com/filippo-fonseca/durat.git",
+  "author": "Filippo Fonseca <filifonsecacagnazzo@gmail.com> (https://www.filippofonseca.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/filippo-fonseca/durat/issues"
