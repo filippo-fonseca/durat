@@ -6,7 +6,7 @@ Created with ❤️ by [@FilippoFonseca](https://www.twitter.com/FilippoFonseca)
 
 ## What is this?
 
-Durat is a functional JS/TS Node framework for openiinng the possibilities of what you can do with text.
+Durat is a functional JS/TS Node framework for opening the possibilities of what you can do with text.
 
 ## Initialization
 
