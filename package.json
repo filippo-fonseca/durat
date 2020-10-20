@@ -1,6 +1,6 @@
 {
   "name": "durat",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Open the possibilities of what you can do with text.",
   "main": "src/index.ts",
   "scripts": {
